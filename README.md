@@ -60,10 +60,7 @@ Access your greenhouse stats from any device on your network by connecting to th
 ## 📦 Future Ideas
 
 - Web control panel to manually trigger watering or lighting  
-- Telegram bot integration  
-- Data logging to cloud services like Google Sheets or InfluxDB  
-- Auto camera focus or tracking  
-- Wi-Fi reconnect fallback and alert system  
+- Discord bot with preview from cam
 
 ## 🧪 Project Goals
 
